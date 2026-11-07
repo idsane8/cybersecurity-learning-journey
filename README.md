@@ -16,3 +16,22 @@ networking, and cybersecurity.
 - [x] Create my first GitHub repository
 - [ ] Make my first commit
 - [ ] Complete my first cybersecurity project
+## Cybersecurity Notes - Lesson 1
+
+### What is Cybersecurity?
+Cybersecurity means protecting computers,
+networks, accounts, and information from
+unauthorised access, attacks, and damage.
+
+### Three Key Security Principles
+- Confidentiality: Only authorised people
+  can access information.
+- Integrity: Information remains accurate
+  and is not changed without authorisation.
+- Availability: Systems and information
+  are accessible when needed.
+
+### My Career Goal
+Build practical cybersecurity skills and
+prepare for an entry-level UK
+cybersecurity role.
